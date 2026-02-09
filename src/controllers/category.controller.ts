@@ -1,3 +1,4 @@
+// @ts-ignore
 import { Request, Response } from "express";
 import Category from "../models/category.model";
 import fs from "fs";
